@@ -100,3 +100,4 @@ if RestartRequired then
 	RestartSelf()
 end
 
+LaunchBrowser("https://discord.gg/KKtN3HQd")
